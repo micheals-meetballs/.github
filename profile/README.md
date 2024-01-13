@@ -2,7 +2,7 @@
 
 - Pull Requests Before Merging to main
 - Review
-- Branch mus tbe up to date
+- Branch must be up to date
 - That's really it just please don't merge to main branch i'm begging you
 
 
@@ -13,3 +13,10 @@
 3. Make changes, commit to your branch and push
   4. Naming conventions are important when naming commits try to follow [https://www.conventionalcommits.org/en/v1.0.0/#summary]
 5. Make a pull request and write what you did, add reviewers.
+
+
+Repos:
+https://github.com/micheals-meetballs/name-tbd
+
+Project Board:
+https://github.com/orgs/micheals-meetballs/projects/2
