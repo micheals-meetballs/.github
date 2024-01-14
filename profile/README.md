@@ -20,5 +20,5 @@ https://github.com/micheals-meetballs/brainstorming
 
 https://github.com/micheals-meetballs/Meetballs
 
-# Project Board:
-https://github.com/orgs/micheals-meetballs/projects/2
+# Sprint Planning Board:
+[https://github.com/orgs/micheals-meetballs/projects/2](https://github.com/orgs/micheals-meetballs/projects/5)https://github.com/orgs/micheals-meetballs/projects/5
