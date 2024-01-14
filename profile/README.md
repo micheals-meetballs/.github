@@ -15,8 +15,8 @@
 5. Make a pull request and write what you did, add reviewers.
 
 
-Repos:
+# Repos:
 https://github.com/micheals-meetballs/name-tbd
 
-Project Board:
+# Project Board:
 https://github.com/orgs/micheals-meetballs/projects/2
