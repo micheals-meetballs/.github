@@ -16,7 +16,8 @@
 
 
 # Repos:
-https://github.com/micheals-meetballs/name-tbd
+https://github.com/micheals-meetballs/brainstorming
+https://github.com/micheals-meetballs/Meetballs
 
 # Project Board:
 https://github.com/orgs/micheals-meetballs/projects/2
