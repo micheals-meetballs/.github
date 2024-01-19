@@ -21,4 +21,5 @@ https://github.com/micheals-meetballs/brainstorming
 https://github.com/micheals-meetballs/Meetballs
 
 # Sprint Planning Board:
-[Project Board](https://github.com/orgs/micheals-meetballs/projects/5)
+[Project Board](https://github.com/orgs/micheals-meetballs/projects/5) 
+Note: Sprint durations last 4 weeks (we're all students)
